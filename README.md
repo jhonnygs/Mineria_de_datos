@@ -1,4 +1,4 @@
-# Mineria_de_datos
+# Mineria de datos y modelización predictiva
 Trabajo realizado en asignatura de Minería de datos y modelización predictiva. En el que se realiza un reporte de cuatro datasets.
 
 ### Ejercicio 1 (Regresión lineal para predicción)
